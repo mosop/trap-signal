@@ -1,5 +1,5 @@
 name: trap-signal
-version: 0.1.0
+version: 0.1.1
 
 authors:
   - mosop
@@ -11,8 +11,3 @@ targets:
 crystal: 0.20.0
 
 license: MIT
-
-dependencies:
-  cli:
-    github: mosop/cli
-    version: 0.3.1.1
