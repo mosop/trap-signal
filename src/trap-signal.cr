@@ -6,3 +6,5 @@ Signal.values.each do |signal|
     exit
   end
 end
+
+sleep
